@@ -35,6 +35,7 @@ An interactive Power BI dashboard designed to analyze and monitor healthcare pro
 ## Repository Structure
 - Data:
 - Dashboard :https://github.com/arnavdutta846/Careflow-core/blob/hemaram/careflow_dataset.pbix
+- Ppt: https://1drv.ms/p/c/EC96AEC6A681ED2E/IQCydKGixngmTploqBlSvKTuAXYwRHPQeAOZMXl7iAZ0k00?e=nhFbjB
 - Images :<img width="956" height="552" alt="Executive_Overview" src="https://github.com/user-attachments/assets/d3ed4472-6054-42bb-a6af-0b2c4b092cc8" /> <br />
           <img width="1422" height="792" alt="Monthly_View" src="https://github.com/user-attachments/assets/5f0d712a-4344-48e9-954c-dd410214d41c" /> <br />
           <img width="1412" height="796" alt="Patient_Process" src="https://github.com/user-attachments/assets/87dd2c7f-37cc-4526-8b46-d0fb02994ffe" /> <br />
